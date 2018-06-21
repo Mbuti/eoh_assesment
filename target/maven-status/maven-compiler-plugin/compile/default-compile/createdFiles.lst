@@ -1,0 +1,9 @@
+com\domain\Entity.class
+com\domain\service\AbstractFacade.class
+com\domain\Cic.class
+com\domain\service\ApplicationConfig.class
+com\domain\Cic_.class
+com\domain\service\CicFacadeREST.class
+com\domain\Entity_.class
+com\domain\service\EntityFacadeREST.class
+com\servlet\MyServlet.class
